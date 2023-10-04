@@ -8,7 +8,7 @@ const messages = [
   {
     channel: "1",
     account: "Admin",
-    text: "Welcome to CryptoChat!"
+    text: "Welcome to CryptoChat!" 
   }, 
   {
     channel: "2",
